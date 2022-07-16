@@ -1,2 +1,2 @@
-# leetcode_summer22
-Leetcode 75 Question Practice
+# Leetcode 75 Question Practice
+Questions that covers the main topics focused on during technical interviews
