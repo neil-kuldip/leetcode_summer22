@@ -15,3 +15,6 @@ def runningSum(nums: List[int]) -> List[int]:
         nums[itr] += nums[itr-1]
     return nums
 
+# Analysis
+# Time complexity: O(n) since we are iterating through the array to update the values at each index
+# Space complexity: O(1) since we are modifying the input array in-place

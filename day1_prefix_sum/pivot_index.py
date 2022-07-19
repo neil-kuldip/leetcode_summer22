@@ -30,3 +30,7 @@ def pivotIndex(nums: List[int]) -> int:
             return itr
         
     return -1
+
+# Analysis
+# Time complexity: O(n) since we iterated once to get the total sum, and another to update the left and right sum to find the pivot
+# Space complexity: O(1) since we are only using two variables to be compared to find the pivot
