@@ -9,8 +9,8 @@ Questions that covers the main topics focused on during technical interviews
  - [x] 1480. Running Sum of 1d Array 
  - [x] 724. Find Pivot Index
   ### Day 2 - String
- - [ ] 205. Isomorphic Strings
- - [ ] 392. Is Subsequence
+ - [x] 205. Isomorphic Strings
+ - [x] 392. Is Subsequence
   ### Day 3 - Linked List
  - [ ] 21. Merge Two Sorted Lists
  - [ ] 206. Reverse Linked List
