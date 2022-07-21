@@ -12,8 +12,8 @@ Questions that covers the main topics focused on during technical interviews
  - [x] 205. Isomorphic Strings
  - [x] 392. Is Subsequence
   ### Day 3 - Linked List
- - [ ] 21. Merge Two Sorted Lists
- - [ ] 206. Reverse Linked List
+ - [x] 21. Merge Two Sorted Lists
+ - [x] 206. Reverse Linked List
   ### Day 4 - Linked List
  - [ ] 876. Middle of Linked List
  - [ ] 142. Linked List Cycle II
