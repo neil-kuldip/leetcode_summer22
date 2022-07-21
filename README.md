@@ -15,8 +15,8 @@ Questions that covers the main topics focused on during technical interviews
  - [x] 21. Merge Two Sorted Lists
  - [x] 206. Reverse Linked List
   ### Day 4 - Linked List
- - [ ] 876. Middle of Linked List
- - [ ] 142. Linked List Cycle II
+ - [x] 876. Middle of Linked List
+ - [x] 142. Linked List Cycle II
   ### Day 5 - Greedy
  - [ ] 121. Best Time to Buy and Sell Stock
  - [ ] 409. Longest Palindrome
