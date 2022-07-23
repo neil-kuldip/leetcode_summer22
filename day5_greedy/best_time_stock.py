@@ -7,7 +7,10 @@
 # Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
 
 # Thought Process 
-# TBD
+# Max difference between largest and smallest value, given smallest value comes first
+# Can determine for any index what is the max element value to the right of it --> Worked on another problem with this exact prompt
+# Make a duplicate array but iterate backwards to get max value for each index
+# Now just one iteration to get the max difference
 import typing as *
 
 def maxProfit(prices: List[int]) -> int:
@@ -26,3 +29,6 @@ def maxProfit(prices: List[int]) -> int:
             maxDiff = maxPrices[itr] - prices[itr]
     
     return maxDiff
+
+# Time complexity is O(n) since we are doing multiple iterations through the input array in making the maxPrices array and finding the max difference
+# Space complexity is O(n) for the maxPrices array made to find the max difference
