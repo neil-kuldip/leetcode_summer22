@@ -18,8 +18,8 @@ Questions that covers the main topics focused on during technical interviews
  - [x] 876. Middle of Linked List
  - [x] 142. Linked List Cycle II
   ### Day 5 - Greedy
- - [ ] 121. Best Time to Buy and Sell Stock
- - [ ] 409. Longest Palindrome
+ - [x] 121. Best Time to Buy and Sell Stock
+ - [x] 409. Longest Palindrome
   ### Day 6 - Tree
  - [ ] 589. N-ary Tree Preorder Traversal
  - [ ] 102. Binary Tree Level Order Traversal
