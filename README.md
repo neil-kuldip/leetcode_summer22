@@ -21,8 +21,8 @@ Questions that covers the main topics focused on during technical interviews
  - [x] 121. Best Time to Buy and Sell Stock
  - [x] 409. Longest Palindrome
   ### Day 6 - Tree
- - [ ] 589. N-ary Tree Preorder Traversal
- - [ ] 102. Binary Tree Level Order Traversal
+ - [x] 589. N-ary Tree Preorder Traversal
+ - [x] 102. Binary Tree Level Order Traversal
   ### Day 7 - Binary Search
  - [ ] 704. Binary Search
  - [ ] 278. First Bad Version
