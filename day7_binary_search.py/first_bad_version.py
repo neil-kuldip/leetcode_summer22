@@ -9,7 +9,11 @@
 # You should minimize the number of calls to the API.
 
 # Thought Process 
-# TBD
+# If I didn't know the topic was binary search I probably would've thought about this last
+# Find first something in a sorted array --> Search in a list --> Sorted so use binary search
+# Modified binary search so if the middle val is bad but not the left val of the middle, middle is the first bad so return middle, otherwise check right of middle
+# If middle isn't bad but the right of middle is bad, return the right of middle, else check the left of middle
+# Could optimize further by checking both the left and right of middle for the if statement, considering it now
 import typing as *
 
 def firstBadVersionHelper(start, end, n):
@@ -35,3 +39,6 @@ def firstBadVersionHelper(start, end, n):
 def firstBadVersion(n: int) -> int:
     start, end = 1, n+1
     return self.firstBadVersionHelper(start, end, n)
+
+# Time complexity is O(log n) since we are implementing a sligthly modified binary search algo
+# Space is O(1) since we are using literal values to be compared in our algo, not taking any extra memory
