@@ -24,8 +24,8 @@ Questions that covers the main topics focused on during technical interviews
  - [x] 589. N-ary Tree Preorder Traversal
  - [x] 102. Binary Tree Level Order Traversal
   ### Day 7 - Binary Search
- - [ ] 704. Binary Search
- - [ ] 278. First Bad Version
+ - [x] 704. Binary Search
+ - [x] 278. First Bad Version
   ### Day 8 - Binary Search Tree
  - [ ] 98. Validate Binary Search Tree
  - [ ] 235. Lowest Common Ancestor of a Binary Search Tree
