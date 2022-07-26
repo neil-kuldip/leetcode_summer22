@@ -27,8 +27,8 @@ Questions that covers the main topics focused on during technical interviews
  - [x] 704. Binary Search
  - [x] 278. First Bad Version
   ### Day 8 - Binary Search Tree
- - [ ] 98. Validate Binary Search Tree
- - [ ] 235. Lowest Common Ancestor of a Binary Search Tree
+ - [x] 98. Validate Binary Search Tree
+ - [x] 235. Lowest Common Ancestor of a Binary Search Tree
   ### Day 9 - Graph/BFS/DFS
  - [ ] 733. Flood Fill
  - [ ] 200. Number of Islands
