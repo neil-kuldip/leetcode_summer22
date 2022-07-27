@@ -30,8 +30,8 @@ Questions that covers the main topics focused on during technical interviews
  - [x] 98. Validate Binary Search Tree
  - [x] 235. Lowest Common Ancestor of a Binary Search Tree
   ### Day 9 - Graph/BFS/DFS
- - [ ] 733. Flood Fill
- - [ ] 200. Number of Islands
+ - [x] 733. Flood Fill
+ - [x] 200. Number of Islands
   ### Day 10 - Dynamic Programming
  - [ ] 509. Fibonacci Number
  - [ ] 70. Climbing Stairs
