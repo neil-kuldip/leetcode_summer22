@@ -33,8 +33,8 @@ Questions that covers the main topics focused on during technical interviews
  - [x] 733. Flood Fill
  - [x] 200. Number of Islands
   ### Day 10 - Dynamic Programming
- - [ ] 509. Fibonacci Number
- - [ ] 70. Climbing Stairs
+ - [x] 509. Fibonacci Number
+ - [x] 70. Climbing Stairs
   ### Day 11 - Dynamic Programming
  - [ ] 746. Min Cost Climbing Stairs
  - [ ] 62. Unique Paths
