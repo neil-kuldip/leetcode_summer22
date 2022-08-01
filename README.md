@@ -39,7 +39,7 @@ Questions that covers the main topics focused on during technical interviews
  - [x] 746. Min Cost Climbing Stairs
  - [x] 62. Unique Paths
   ### Day 12 - Sliding Window/Two Pointer
- - [ ] 438. Find All Anagrams in a String
+ - [x] 438. Find All Anagrams in a String
  - [ ] 424. Longest Repeating Character Replacement
   ### Day 13 - Hashmap
  - [ ] 1. Two Sum
