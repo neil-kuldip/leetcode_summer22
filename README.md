@@ -42,8 +42,8 @@ Questions that covers the main topics focused on during technical interviews
  - [x] 438. Find All Anagrams in a String
  - [ ] 424. Longest Repeating Character Replacement
   ### Day 13 - Hashmap
- - [ ] 1. Two Sum
- - [ ] 299. Bulls and Cows
+ - [x] 1. Two Sum
+ - [x] 299. Bulls and Cows
   ### Day 14 - Stack
  - [ ] 844. Backspace String Compare
  - [ ] 394. Decode String
