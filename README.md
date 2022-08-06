@@ -40,7 +40,7 @@ Questions that covers the main topics focused on during technical interviews
  - [x] 62. Unique Paths
   ### Day 12 - Sliding Window/Two Pointer
  - [x] 438. Find All Anagrams in a String
- - [ ] 424. Longest Repeating Character Replacement
+ - [x] 424. Longest Repeating Character Replacement
   ### Day 13 - Hashmap
  - [x] 1. Two Sum
  - [x] 299. Bulls and Cows
