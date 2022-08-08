@@ -45,8 +45,8 @@ Questions that covers the main topics focused on during technical interviews
  - [x] 1. Two Sum
  - [x] 299. Bulls and Cows
   ### Day 14 - Stack
- - [ ] 844. Backspace String Compare
- - [ ] 394. Decode String
+ - [x] 844. Backspace String Compare
+ - [x] 394. Decode String
   ### Day 15 - Heap
  - [ ] 1046. Last Stone Weight
  - [ ] 692. Top K Frequent Words
