@@ -3,7 +3,7 @@ Questions that covers the main topics focused on during technical interviews
 
 ## Current Progress
 <details>
-    <summary><strong>Level 1 <em>(In Progress)</em></strong></summary>
+    <summary><strong>Level 1 <em>(Completed -- Reviewing)</em></strong></summary>
   
   ### Day 1 - Prefix Sum
  - [x] 1480. Running Sum of 1d Array 
@@ -48,6 +48,6 @@ Questions that covers the main topics focused on during technical interviews
  - [x] 844. Backspace String Compare
  - [x] 394. Decode String
   ### Day 15 - Heap
- - [ ] 1046. Last Stone Weight
- - [ ] 692. Top K Frequent Words
+ - [x] 1046. Last Stone Weight
+ - [x] 692. Top K Frequent Words
 </details>
