@@ -51,3 +51,13 @@ Questions that covers the main topics focused on during technical interviews
  - [x] 1046. Last Stone Weight
  - [x] 692. Top K Frequent Words
 </details>
+
+<details>
+    <summary><strong>Miscellaneous <em>(In Progress)</em></strong></summary>
+  - [ ] 139. Word Break
+</details>
+
+<details>
+    <summary><strong>Level 2 <em>(Will Start)</em></strong></summary>
+  Soon to be listed
+</details>
