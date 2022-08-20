@@ -55,7 +55,7 @@ Questions that covers the main topics focused on during technical interviews
 <details>
     <summary><strong>Miscellaneous <em>(In Progress)</em></strong></summary>
     
-  - [ ] 139. Word Break
+  - [x] 139. Word Break
 </details>
 
 <details>
