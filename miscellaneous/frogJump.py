@@ -38,5 +38,6 @@ def canCross(self, stones: List[int]) -> bool:
     return False if -1 in dp[-1] else True
 
 # Analysis
-# Time complexity: TBD
-# Space complexity: TBD
+# Time complexity: O(n^2) since we are iterating through the array of stones but we are checking for each stone if other stones 
+# can be reached from the current
+# Space complexity: O(n) since we are utilizing an array whose values are sets with a size of a multiple of 3 (Under consideration)
