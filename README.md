@@ -58,6 +58,7 @@ Questions that covers the main topics focused on during technical interviews
   - [ ] 139. Word Break
   - [x] 403. Frog Jump
   - [ ] 274. H-Index
+  - [x]336. Palindrome Pairs
 </details>
 
 <details>
