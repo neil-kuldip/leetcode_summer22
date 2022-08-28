@@ -13,8 +13,8 @@ import typing as *
 
 def palindromePairs(self, words: List[str]) -> List[List[int]]:
     results = []
-    for idx in range(len(words)): # O(N) where N is length of the list
-        for idx2 in range(idx + 1, len(words)): # O(N) 
+    for idx in range(len(words)): # O(n) where n is length of the list
+        for idx2 in range(idx + 1, len(words)): # O(n) 
             if idx == idx2: continue # O(1)
             combine1 = words[idx] + words[idx2] # O(k^2) where k is the average number of chars in both words[idx] and words[idx2]
             combine2 = words[idx2] + words[idx] # O(k^2)
@@ -24,7 +24,7 @@ def palindromePairs(self, words: List[str]) -> List[List[int]]:
                 results.append([idx2, idx])
     return results
 
-# Time complexity is O(k^2N^2) since we're using a double for loop to check each pair combination of words, but inside the nested for loop we are creating concatenated strings to be compared
+# Time complexity is O(k^2n^2) since we're using a double for loop to check each pair combination of words, but inside the nested for loop we are creating concatenated strings to be compared
 # Space complexity is O(1) if not counting the results array, otherwise no additional memory used
 
 # Better Solution Idea found here: --> https://dev.to/seanpgallivan/solution-palindrome-pairs-23j6
@@ -69,6 +69,6 @@ def palindromePairs(self, words: List[str]) -> List[List[int]]:
     
     return results
 
-# Time complexity is O(Nk^2) where N is the length of the words list and k is the average length of the words in the list
-# Space complexity is O(N) for the wordMap dictionary
+# Time complexity is O(nk^2) where n is the length of the words list and k is the average length of the words in the list
+# Space complexity is O(n) for the wordMap dictionary
 
