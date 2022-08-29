@@ -1,9 +1,10 @@
 # Leetcode 75 Question Practice
 Questions that covers the main topics focused on during technical interviews
+Questions already completed will be reviewed at later points in time
 
 ## Current Progress
 <details>
-    <summary><strong>Level 1 <em>(Completed -- Reviewing)</em></strong></summary>
+    <summary><strong>Level 1 <em>Completed</em></strong></summary>
   
   ### Day 1 - Prefix Sum
  - [x] 1480. Running Sum of 1d Array 
@@ -55,9 +56,10 @@ Questions that covers the main topics focused on during technical interviews
 <details>
     <summary><strong>Miscellaneous <em>(In Progress)</em></strong></summary>
     
-  - [ ] 139. Word Break
+  - [x] 139. Word Break
   - [x] 403. Frog Jump
-  - [ ] 274. H-Index
+  - [x] 274. H-Index
+  - [x] 336. Palindrome Pairs
 </details>
 
 <details>
