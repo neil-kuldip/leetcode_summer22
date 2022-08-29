@@ -16,16 +16,16 @@ def palindromePairs(self, words: List[str]) -> List[List[int]]:
     for idx in range(len(words)): # O(n) where n is length of the list
         for idx2 in range(idx + 1, len(words)): # O(n) 
             if idx == idx2: continue # O(1)
-            combine1 = words[idx] + words[idx2] # O(k^2) where k is the average number of chars in both words[idx] and words[idx2]
-            combine2 = words[idx2] + words[idx] # O(k^2)
+            combine1 = words[idx] + words[idx2] # O(1) 
+            combine2 = words[idx2] + words[idx] # O(1)
             if combine1 == combine1[::-1]: # O(k)
                 results.append([idx, idx2])
             if combine2 == combine2[::-1]: # O(k)
                 results.append([idx2, idx])
     return results
 
-# Time complexity is O(k^2n^2) since we're using a double for loop to check each pair combination of words, but inside the nested for loop we are creating concatenated strings to be compared
-# Space complexity is O(1) if not counting the results array, otherwise no additional memory used
+# Time complexity is O(n^2) since we're using a double for loop to check each pair combination of words
+# Space complexity is O(n^2) since the resulting array can have n^2 pairs in the worst case
 
 # Better Solution Idea found here: --> https://dev.to/seanpgallivan/solution-palindrome-pairs-23j6
 
@@ -70,5 +70,5 @@ def palindromePairs(self, words: List[str]) -> List[List[int]]:
     return results
 
 # Time complexity is O(nk^2) where n is the length of the words list and k is the average length of the words in the list
-# Space complexity is O(n) for the wordMap dictionary
+# Space complexity is O(n^2) for the wordMap dictionary and resulting array amortized
 

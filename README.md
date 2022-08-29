@@ -56,10 +56,10 @@ Questions already completed will be reviewed at later points in time
 <details>
     <summary><strong>Miscellaneous <em>(In Progress)</em></strong></summary>
     
-  - [ ] 139. Word Break
+  - [x] 139. Word Break
   - [x] 403. Frog Jump
   - [x] 274. H-Index
-  - [x]336. Palindrome Pairs
+  - [x] 336. Palindrome Pairs
 </details>
 
 <details>
